@@ -1,6 +1,6 @@
 # Rui's Profolio
 
-  <img src="https://github.com/user-attachments/assets/c311f289-d250-4307-8ec0-3b0da3888edb" height="150px">
+  <img src="https://github.com/user-attachments/assets/a0ccf755-3e20-463f-a3e0-d0bbe7a97415" height="150px">
   
 こんにちは!  
 この GitHub 作品集では、私が開発した Web アプリやモバイルアプリを紹介しています。　　  
@@ -54,9 +54,9 @@ Rui's Profiles/
 
 |  ScreenShot   | Description  |
 |  ----  | ----  |
-| <div align="center"><img src="https://github.com/user-attachments/assets/f3773cb2-4d03-4898-b4bb-255d55bac06f" width="800px"></div>  | ホームページ |
-|  <div align="center"><img src="https://github.com/user-attachments/assets/f0724824-8a22-4655-a1a8-e44894ad4feb" width="800px"></div>  | 編集システムの事件管理ページ |
-| <div align="center"><img src="https://github.com/user-attachments/assets/092b7b94-9521-429d-8320-fac8f9ed21c6" width="800px"></div>  | 編集システムの事件編集ページ |
+| <div align="center"><img src="https://github.com/user-attachments/assets/d9234ec6-445e-467a-82bd-bc5e5db4021c" width="800px"></div>  | ホームページ |
+|  <div align="center"><img src="https://github.com/user-attachments/assets/ae6381d3-6c92-455f-b183-4347c89bab51" width="800px"></div>  | 編集システムの事件管理ページ |
+| <div align="center"><img src="https://github.com/user-attachments/assets/cf395cac-6656-4ad8-b1cb-5707ef84ac85" width="800px"></div>  | 編集システムの事件編集ページ |
 |  ... | ...  |
   
 ---
@@ -83,7 +83,7 @@ Rui's Profiles/
  
 |  ScreenShot   | Description  |  
 |  ----  | ----  |
-| <div align="center"><img src="https://github.com/user-attachments/assets/760b13f7-f3e6-4284-804b-a2280962c6c7" width="800px"></div>  | ホーム、反省履歴、会話ページ |
+| <div align="center"><img src="https://github.com/user-attachments/assets/42c9b3dd-0767-4fc5-856c-adfa240f3060" width="800px"></div>  | ホーム、反省履歴、会話ページ |
 |  ... | ...  |
 
 ---
@@ -107,7 +107,7 @@ Rui's Profiles/
  
 |  ScreenShot   | Description  |  
 |  ----  | ----  |
-| <div align="center"><img src="https://github.com/user-attachments/assets/034514eb-1b1f-41e8-aa2f-03f8b4876762" width="400px"></div>  | ホームページ |
+| <div align="center"><img src="https://github.com/user-attachments/assets/05235745-5ffe-4c7c-bdf7-c3ad3ea5137c" width="400px"></div>  | ホームページ |
 |  ... | ...  |
 
 
