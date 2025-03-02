@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+# Cypress test output
+/cypress/videos/
+/cypress/screenshots/
+
+# API keys & environment variables
+.env
+*.env
+key.env
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Optional: Ignore package-lock.json (if you don't want to lock dependencies)
+package-lock.json

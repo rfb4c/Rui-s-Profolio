@@ -1,0 +1,18 @@
+/* 调整暗色模式的背景和文字颜色 */
+:root[data-theme="dark"] {
+  --background: #1a1a1a;  /* 使用较浅的深色背景 */
+  --text-primary: #ffffff; /* 使用纯白色文字提高对比度 */
+  --text-secondary: #e0e0e0; /* 次要文字使用浅灰色 */
+}
+
+/* 确保文字有足够的对比度 */
+body {
+  color: var(--text-primary);
+  background-color: var(--background);
+}
+
+/* 增加文字大小和行高提高可读性 */
+p, div {
+  font-size: 16px;
+  line-height: 1.6;
+} 
